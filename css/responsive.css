@@ -1,0 +1,14 @@
+@media (min-width: 1200px)
+bootstrap.min.css:5
+.container {
+    width: 1170px;
+}
+@media (min-width: 992px)
+bootstrap.min.css:5
+.container {
+    width: 970px;
+}
+@media (min-width: 768px)
+bootstrap.min.css:5
+.container {
+    width: 750px;
